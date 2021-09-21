@@ -1,0 +1,1 @@
+<a href="{{ url('/') }}/login/facebook">Login with Facebook</a>
